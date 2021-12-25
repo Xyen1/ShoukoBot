@@ -1,4 +1,4 @@
-## REUZSC
+## Xyen
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git klon https://github.com/Xyen1/Xyen
+> cd Xyen
 > bash install.sh
 > node index.js
 ```
